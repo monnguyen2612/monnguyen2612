@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @monnguyen2612
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-monnguyen2612/monnguyen2612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning Back-End
+- 💞️ I’m looking to collaborate on E-commerce, Security project
+- 📫 How to reach me immonnguyen@gmail.com
